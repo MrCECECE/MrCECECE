@@ -5,15 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=fd6116&center=true&vCenter=true&width=650&lines=Building+tools+for+freedom;Python+%7C+C%2B%2B+%7C+Kotlin;Open+Source+%26+Privacy;Network+Engineering" alt="Typing SVG">
   </a>
 </p>
-
-> 🕊️ *«Свобода — это базовое право человека»*
 ---
 
 ## 🔭 Избранные проекты
 | Проект | Описание | Статус |
 |--------|----------|--------|
 | [**✨ Wisp**](https://github.com/MrCECECE/Wisp) | Легковесный сетевой инструмент на Kotlin для оптимизации соединений | 🟡 В разработке |
-| [**🛡️ VPNs**](https://github.com/MrCECECE/VPNs) | Коллекция решений для приватного и стабильного доступа к сети | 🟢 Активно |
+| [**🛡️ VPNs**](https://github.com/MrCECECE/VPNs) | Коллекция решений для приватного и стабильного доступа к сети | 🟡 В разработке |
 
 ## 🛠 Технологии и инструменты
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)](https://www.python.org/)
