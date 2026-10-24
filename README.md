@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&color=fd6116&center=true&vCenter=true&width=650&lines=Building+tools+for+freedom;Python+%7C+C%2B%2B+%7C+Kotlin;Open+Source+%26+Privacy;Network+Engineering" alt="Typing SVG">
   </a>
 </p>
----
 
 ## 🔭 Избранные проекты
 | Проект | Описание | Статус |
